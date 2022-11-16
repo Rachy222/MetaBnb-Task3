@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Rachy222/MetaBnb-Task3.git/static/css/main.9f8d7f6f.css",
+    "main.js": "/Rachy222/MetaBnb-Task3.git/static/js/main.2a9b7b7b.js",
+    "static/js/787.45dab75f.chunk.js": "/Rachy222/MetaBnb-Task3.git/static/js/787.45dab75f.chunk.js",
+    "static/media/NFTs-img.svg": "/Rachy222/MetaBnb-Task3.git/static/media/NFTs-img.37e0315bcb8f8525cb287d80ee1bcfc3.svg",
+    "static/media/Home-Hero-Img.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Home-Hero-Img.26235f4c1bcacc822da6088d0f5fa06f.svg",
+    "static/media/Place3.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place3.4a8d18d6a1537980b2b8ea4cc531497b.svg",
+    "static/media/Place15.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place15.2a9ad807cdc1389f10179deefebec0c2.svg",
+    "static/media/Place2.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place2.fccd5e0160cd3694f9c081b0dad60b2e.svg",
+    "static/media/Place14.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place14.df0d5bbf81c9793ebb7f8ad538df205e.svg",
+    "static/media/Place4.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place4.b8a62779248d49c05b0b17bfa83f6668.svg",
+    "static/media/Place13.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place13.85cc1df50838d84c7af35a618a7d4a6c.svg",
+    "static/media/Place9.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place9.d42d5641cd1e05ec4c53048da7cda1ca.svg",
+    "static/media/Place10.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place10.b4884443ccaa65f30cf61cd4917a390f.svg",
+    "static/media/Place1.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place1.c4f45a1d85bded50f9bb59c8c6accfe9.svg",
+    "static/media/Place12.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place12.4efb3fb2cd6d67743f87c205230d537c.svg",
+    "static/media/Place6.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place6.620dea3a92c0691b56ce4108b690471c.svg",
+    "static/media/Place8.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place8.0efbd6786442948c361b4087fa218178.svg",
+    "static/media/Place11.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place11.427910df57c2c5a7a8f87754564a4d0a.svg",
+    "static/media/Place16.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place16.c9b76aa4eeb4c14bc1ce6cb9e2278e92.svg",
+    "static/media/Place7.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place7.d956c58bac35218dffe594b90c79a736.svg",
+    "static/media/Place5.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Place5.5fef58c697cca9798619f9a1763cd37e.svg",
+    "static/media/METAMASK.svg": "/Rachy222/MetaBnb-Task3.git/static/media/METAMASK.fb52934db13925cb94877c2a07d73fe9.svg",
+    "static/media/OpenSea.svg": "/Rachy222/MetaBnb-Task3.git/static/media/OpenSea.cfd1ca6b48614b8e5c1fac5ac3688b16.svg",
+    "static/media/Metabnb-logo.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Metabnb-logo.b9e552af4d1b72da7522faf21c5548cd.svg",
+    "static/media/MBToken.svg": "/Rachy222/MetaBnb-Task3.git/static/media/MBToken.6a2427bee120a728c62147161737f2d5.svg",
+    "static/media/Metabnb-footer-logo.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Metabnb-footer-logo.69a97a8cf7498387c85734f13405b3b3.svg",
+    "static/media/Instagram-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Instagram-icon.666574170cfd26475ba6fa92fb494e45.svg",
+    "static/media/Location-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Location-icon.8bba53c17dc3729c7621c6a1ea4d5211.svg",
+    "static/media/Twitter-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Twitter-icon.57472fbac529ac81251822be9cbae030.svg",
+    "index.html": "/Rachy222/MetaBnb-Task3.git/index.html",
+    "static/media/next-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/next-icon.965360f773e9fdc9cc49d66d6ee92ffd.svg",
+    "static/media/Facebook-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Facebook-icon.4eaff97d1b1f9beea14c5a24c3bfad24.svg",
+    "main.9f8d7f6f.css.map": "/Rachy222/MetaBnb-Task3.git/static/css/main.9f8d7f6f.css.map",
+    "main.2a9b7b7b.js.map": "/Rachy222/MetaBnb-Task3.git/static/js/main.2a9b7b7b.js.map",
+    "787.45dab75f.chunk.js.map": "/Rachy222/MetaBnb-Task3.git/static/js/787.45dab75f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8d7f6f.css",
+    "static/js/main.2a9b7b7b.js"
+  ]
+}
