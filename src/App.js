@@ -9,7 +9,7 @@ function App() {
 
     <div className="App">
         <Routes>
-        <Route path="/MetaBnb-Task3" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/locations" element={<Places />} />
         </Routes>
 
