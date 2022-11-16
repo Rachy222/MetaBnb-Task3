@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rachy222/MetaBnb-Task3.git/static/css/main.9f8d7f6f.css",
-    "main.js": "/Rachy222/MetaBnb-Task3.git/static/js/main.2a9b7b7b.js",
+    "main.js": "/Rachy222/MetaBnb-Task3.git/static/js/main.400c76a4.js",
     "static/js/787.45dab75f.chunk.js": "/Rachy222/MetaBnb-Task3.git/static/js/787.45dab75f.chunk.js",
     "static/media/NFTs-img.svg": "/Rachy222/MetaBnb-Task3.git/static/media/NFTs-img.37e0315bcb8f8525cb287d80ee1bcfc3.svg",
     "static/media/Home-Hero-Img.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Home-Hero-Img.26235f4c1bcacc822da6088d0f5fa06f.svg",
@@ -33,11 +33,11 @@
     "static/media/next-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/next-icon.965360f773e9fdc9cc49d66d6ee92ffd.svg",
     "static/media/Facebook-icon.svg": "/Rachy222/MetaBnb-Task3.git/static/media/Facebook-icon.4eaff97d1b1f9beea14c5a24c3bfad24.svg",
     "main.9f8d7f6f.css.map": "/Rachy222/MetaBnb-Task3.git/static/css/main.9f8d7f6f.css.map",
-    "main.2a9b7b7b.js.map": "/Rachy222/MetaBnb-Task3.git/static/js/main.2a9b7b7b.js.map",
+    "main.400c76a4.js.map": "/Rachy222/MetaBnb-Task3.git/static/js/main.400c76a4.js.map",
     "787.45dab75f.chunk.js.map": "/Rachy222/MetaBnb-Task3.git/static/js/787.45dab75f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f8d7f6f.css",
-    "static/js/main.2a9b7b7b.js"
+    "static/js/main.400c76a4.js"
   ]
 }
