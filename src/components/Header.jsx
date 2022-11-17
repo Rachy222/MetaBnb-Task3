@@ -14,7 +14,7 @@ export default function Header() {
           <img src={Logo} alt="metabnb header logo" />
         </div>
         <div class="metabnb-menu-items">
-                <NavLink to={'/'} className="Link" id='Home'>Home</NavLink>
+                <NavLink to={'/MetaBnb-Task3'} className="Link" id='Home'>Home</NavLink>
                 <NavLink to={'/locations'}  className="Link" id='Places'>Place to stay</NavLink>
                 <NavLink to={''} className="Link">NFTs</NavLink>
                 <NavLink to={''} className="Link">Community</NavLink>
